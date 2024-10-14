@@ -1,8 +1,14 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto fue creado como parte de una práctica para aprender a manejar eventos en **React**. Utilizamos **Vite** como herramienta de construcción para crear un entorno de desarrollo rápido y eficiente.
 
-Currently, two official plugins are available:
+Puedes ver la aplicación desplegada aquí: [Formulario de práctica](https://exampleform1.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Descripción del proyecto
+
+El propósito de este proyecto es implementar un formulario interactivo para practicar el manejo de eventos en React, tales como:
+
+- Captura de eventos de cambio (`onChange`) y envío de formularios (`onSubmit`).
+- Actualización dinámica del estado basado en la interacción del usuario.
+- Validación básica de las entradas del formulario.
+
